@@ -4,3 +4,6 @@
 
 ## Project 1: Use a Pre-trained Image Classifier to Identify Dog Breeds
 - [Project Files](/Project%201/)
+
+## Project 2: Create Your Own Image Classifier
+- [Project Files](/Project%202/)

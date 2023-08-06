@@ -1,3 +1,5 @@
+![Certificate](/Al%20Programming%20with%20Python.png)
+
 # Project 1: Use a Pre-trained Image Classifier to Identify Dog Breeds
 - [Project Files](/Project%201/)
 
